@@ -1,6 +1,6 @@
 Explaratory and predicting customer churn on bank.
 
-installed the requirements module before running the model.
+cloned, and installed the requirements module before running the projects
 
 based on the data we observe, we found that this is a classification problem.
 whether if its a linear or non linear problem is still on progress.`
